@@ -169,7 +169,7 @@ public class AVLTree {
         System.out.println("Searching for 10 : " + avl.find(10));
         System.out.println("Searching for 11 : " + avl.find(11));
         System.out.println("Searching for 20 : " + avl.find(20));
-        System.out.println("Height of the tree : " + avl.findHeight());
+        System.out.println("Height of the java.tree : " + avl.findHeight());
         System.out.println("Finding height from 10 : " + avl.findHeightFrom(10));
         System.out.println("Finding height from 20 : " + avl.findHeightFrom(20));
         System.out.println("Finding height from 25 : " + avl.findHeightFrom(25));
